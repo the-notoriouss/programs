@@ -1,1 +1,2 @@
-# programs# programs
+TO FIND FACTORIAL FOR N NUMBERS 
+WRITTEN IN C++
